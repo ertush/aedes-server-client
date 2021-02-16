@@ -1,0 +1,1 @@
+web: node aedes-server.js

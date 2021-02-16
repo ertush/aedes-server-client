@@ -1,1 +1,1 @@
-web: node aedes-server.js
+web: npm run server
